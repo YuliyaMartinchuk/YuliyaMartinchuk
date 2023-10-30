@@ -1,11 +1,11 @@
  <p align="center">
   <a href="https://git.io/typing-svg" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=290CF7&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Yuliya+Martinchuk" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=35&duration=4000&pause=500&color=744FC6&background=FF000000&left=true&vCenter=true&width=635&height=70&lines=Hello+there+%F0%9F%91%8B%2C+I'm+Yuliya+Martinchuk" alt="Typing SVG">
   </a>
 <h2 align="center">Frontend Developer</h2>
    <img src ="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="codding">
 
-Welcome to my profile! I am glad to welcome you here. Here you will find my projects and source code related to web development. My goal is to create clean and understandable code that can be easily maintained and scaled. If you have ideas or suggestions for the implementation of my projects, I am always open for discussion and feedback. Your ideas and suggestions are welcome and I'd love to hear your thoughts. Thank you for visiting my profile!
+Thank you for visiting my profile! I'm excited to have you here. This is where I showcase my web development projects and share the corresponding source code. My aim is to create code that is clean, well-structured, and easy to scale. I greatly appreciate any ideas or suggestions you may have regarding my projects. I'm always open to discussions and feedback, so please feel free to share your thoughts. Thank you for taking the time to explore my profile!
 
 * 🌍  I'm based in Minsk
 * 🖥️  See my portfolio at [my portfolio website.](https://yuliyamartinchuk.github.io/Portfolio/)
